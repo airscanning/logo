@@ -1,15 +1,17 @@
 # logo
 
 # font
-font-family: Museo Sans,Arial,Helvetica,sans-serif;
+
 https://fonts.google.com/specimen/IBM+Plex+Sans
 
 STANDARD @IMPORT
-<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
-Specify in CSS
-
+    
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+    
+## Specify in CSS
 Use the following CSS rules to specify these families:
 
+    font-family: Museo Sans,Arial,Helvetica,sans-serif;
     font-family: 'IBM Plex Sans', sans-serif;
 
 
